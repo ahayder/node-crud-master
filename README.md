@@ -1,2 +1,2 @@
-# node-crud-master
-Node Crud Master
+# Node Crud Master
+A CRUD generator for NodeJS, ExpressJS, TypeScript, MongoDB, VueJS
