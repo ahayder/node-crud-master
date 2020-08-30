@@ -1,18 +1,32 @@
 {
   "name": "node-crud-master",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CRUD generator for NodeJS, ExpressJS, TypeScript, MongoDB, VueJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ncm": "./index.js"
+    "ncm": "index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0",
+    "shelljs": "^0.8.4",
+    "validator": "^13.1.1",
     "yargs": "^15.4.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahayder/node-crud-master.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahayder/node-crud-master/issues"
+  },
+  "homepage": "https://github.com/ahayder/node-crud-master#readme"
 }
